@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Sam's cryptocurrency",
   "main": "lib/samcoin.js",
-  "start": "lib/samcoin.js",
   "scripts": {
+    "start": "node lib/samcoin.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
