@@ -20,6 +20,11 @@
   "dependencies" : {
     "body-parser" : ">1.0",
     "express" : "~4.0",
-    "ramda" : "~0.24.1"
+    "ramda" : "~0.24.1",
+    "threads" : "0.8.1",
+    "crypto" : "*",
+    "elliptic" : "*",
+    "es6-error" : "*",
+    "cli-color" : "*"
   }
 }
