@@ -25,6 +25,7 @@
     "crypto" : "*",
     "elliptic" : "*",
     "es6-error" : "*",
-    "cli-color" : "*"
+    "cli-color" : "*",
+    "superagent" : "*"
   }
 }
